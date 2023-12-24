@@ -9,5 +9,5 @@ An expenditure calculator has been created with this project. It is calculated b
 HTML-CSS-JavaScript
 
 
-<h1>Expenditure Calculator</h1>
+
 <img src="/HarcamaHesaplayici.gif"/>
